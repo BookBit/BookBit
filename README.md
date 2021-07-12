@@ -1,4 +1,4 @@
 # BookBit
 
-Personalized Book Collection Application 
+Personalized Social Book Catalogue
 
